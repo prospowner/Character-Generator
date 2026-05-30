@@ -19,11 +19,11 @@ class Character {
 //making 2 characters with the help of functions
 int main() {
      Character player1;
-     player1.name = "Diddy";
-     player1.power_level = 69;
+     player1.name = "A";
+     player1.power_level = 64;
 
      Character player2;
-     player2.name = "Epstein";
+     player2.name = "B";
      player2.power_level = 60;
 
      //deploying them
